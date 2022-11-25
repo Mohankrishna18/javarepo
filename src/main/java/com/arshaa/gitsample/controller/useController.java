@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class useController {
 	 @GetMapping("/helloworld")
 	public String demo() {
-		return "Hello world  need to push";
+		return "Hello world updated";
 		
 	}
 
